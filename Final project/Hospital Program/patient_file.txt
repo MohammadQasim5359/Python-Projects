@@ -1,0 +1,3 @@
+Sara|Smithens|22|07012345678|B1 234|Coughs|None|
+Mike|Jonas|40|07555551234|L2 2AB|Sneezing|None|
+David|Sand|19|07123456789|C1 ABC|Sore Throat|None|
